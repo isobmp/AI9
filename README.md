@@ -1,5 +1,6 @@
 # AI9
-Artificial Intelligence to change the way robots communicate
+Artificial Intelligence to change the way robots communicate with humans.
+
 ## API URL
 http://api.brainshop.ai/get?bid=169494&key=zV3Ir2zUtvbEkGXa&uid=[uid]&msg=[msg]
 
